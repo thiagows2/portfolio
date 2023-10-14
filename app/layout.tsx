@@ -13,7 +13,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Thiago | Portfólio',
-  description: `Thiago é um Desenvolvedor Full-Stack com ${getYearsOfExperience()} anos de experiência.`
+  description: `Desenvolvedor full-stack com ${getYearsOfExperience()} anos de experiência.`
 }
 
 export default function RootLayout({ children }: { children: ReactNode }) {
