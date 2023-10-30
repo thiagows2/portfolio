@@ -353,12 +353,21 @@
   dependencies:
     react "18.2.0"
 
-"@react-email/tailwind@0.0.8", "@react-email/tailwind@^0.0.8":
+"@react-email/tailwind@0.0.8":
   version "0.0.8"
   resolved "https://registry.yarnpkg.com/@react-email/tailwind/-/tailwind-0.0.8.tgz#d5cb9a2e55b386ce7dfb3c60527a1c98cc4d4c64"
   integrity sha512-0BLjD5GpiyBK7YDlaDrjHIpj9eTrrZrMJud3f1UPoCZhS+0S/M8LcR8WMbQsR+8/aLGmiy4F4TGZuRQcsJEsFw==
   dependencies:
     html-react-parser "3.0.9"
+    react "18.2.0"
+    react-dom "18.2.0"
+    tw-to-css "0.0.11"
+
+"@react-email/tailwind@^0.0.11":
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/@react-email/tailwind/-/tailwind-0.0.11.tgz#16bd9b38cd712a1973c3f712eeeeb3c38ac2f0bf"
+  integrity sha512-YZXVLPksAE3ke7HZjWsqxWbxe1OeqVifz+b/Do6K5Hgk3Wb+2HBACTrkkhnqIVv9T4OaeZ4C6ZxTDqvSSSXQhw==
+  dependencies:
     react "18.2.0"
     react-dom "18.2.0"
     tw-to-css "0.0.11"
